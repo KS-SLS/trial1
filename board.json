@@ -1,0 +1,26 @@
+{
+  "packages": [
+    {
+      "name": "pt32",
+      "maintainer": "by sls",
+      "websiteURL": "https://example.com",
+      "platforms": [
+        {
+          "name": "pt32 board",
+          "architecture": "arm",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "file:C:\\Users\\komal.int70\\AppData\\Local\\Arduino15\\packages\\my_custom_board\\hardware\\my_custom_package.zip",
+          "archiveFileName": "my_custom_package.zip",
+          "checksum": "SHA-256:4a569bd2848176a228f4c62a56b9bd361a3f2931f39e4685cee722f0343901ad",
+          "size": "1266",
+          "boards": [
+            {
+              "name": "pt32  Board"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
