@@ -12,7 +12,7 @@
           "category": "Contributed",
           "url": "https://github.com/KS-SLS/trial1/raw/main/arm.zip",
           "archiveFileName": "arm.zip",
-          "checksum": "8edd1ed63892a67b2b23960189a2692df02d0e5b5d6d9bcc19e5c130f4bac98a",
+          "checksum": "SHA-256:8edd1ed63892a67b2b23960189a2692df02d0e5b5d6d9bcc19e5c130f4bac98a",
           "size": "1703",
           "boards": [
             {
