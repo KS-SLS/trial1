@@ -12,8 +12,8 @@
           "category": "Contributed",
           "url": "https://github.com/KS-SLS/trial1/raw/main/arm.zip",
           "archiveFileName": "arm.zip",
-          "checksum": "SHA-256:2879f7f1f628ae066d66e463dfe42bce74c34ff57e0046ad671362b498b33b7f",
-          "size": "1173",
+          "checksum": "SHA-256:272083228953e285ee4eb5a62b1a7443c58af6e3f44833eb54218e3b76e4a35a",
+          "size": "1248",
           "boards": [
             {
               "name": "pt32  Board"
