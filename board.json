@@ -10,8 +10,8 @@
           "architecture": "arm",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/KS-SLS/trial1/raw/main/pnew.zip",
-          "archiveFileName": "new.zip",
+          "url": "https://github.com/KS-SLS/trial1/blob/main/arm1.zip",
+          "archiveFileName": "arm1.zip",
           "checksum": "SHA-256:272083228953e285ee4eb5a62b1a7443c58af6e3f44833eb54218e3b76e4a35a",
           "size": "1284",
           "boards": [
